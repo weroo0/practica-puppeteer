@@ -19,7 +19,7 @@ Install practica-puppeteer with npm
 ```
     
 ## 🚀 About Me
-I'm a full stack developer... LUIS ENRIQUE HDEZ MERCADO
+I'm a full stack developer...
 
 
 ## License
